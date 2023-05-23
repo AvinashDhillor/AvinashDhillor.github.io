@@ -14,21 +14,19 @@ summaryLength = 30
     description = "Avinash Dhillor's blog about programming and other cool stuff which i learn on daily basis."
     author = "Avinash Dhillor"
     logo = "/logo.png"
-    favicon = "/favicon.png"
-    faviconIco = "/favicon.png"
+    favicon = "/logo.png"
+    faviconIco = "/logo.png"
     appletouch = "/logo.png"
     svgicon = "/logo.png"
     icon512 = "/logo.png"
-    
     imageInArticlePreview = true
-
     enableShareOnFediverse = false
-
     enableRelatedArticles = true
     relatedArticlesNum = 2 
     forceRedirect = true
     showRss = false
-   
+    
+
 [markup]
     [markup.highlight]
         codeFences = true
