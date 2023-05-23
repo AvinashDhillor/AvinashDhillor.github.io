@@ -20,7 +20,7 @@ image: "/images/post_pics/Day_1_Leetcode_Daily_Kth_largest_Element/1.png"
 ---
 **Approach:**
 
-In problem we will be getting an array initially and that array size can be greater then **K** so we will be storing that array in heap (Min heap_ of size K. Top element of heap will always be our solution. To maintain a heap of size K in java, we will have to keep removing our K+1th element from heap while inserting all elements of num array.
+In problem we will be getting an array initially and that array size can be greater then **K** so we will be storing that array in heap (Min heap) of size K. Top element of heap will always be our solution. To maintain a heap of size K in java, we will have to keep removing our K+1th element from heap while inserting all elements of num array.
 
 Similar, while we add new elements into heap we will have to maintain size and remove the K+1 th element from heap and we can return top element of heap. Which will be Kth largest element in our case.
 
