@@ -25,6 +25,9 @@ summaryLength = 30
     relatedArticlesNum = 2 
     forceRedirect = true
     showRss = false
+
+    umamiScriptUrl = "https://analytics.umami.is/script.js"
+    umamiWebsiteId = "54d5bbdf-46fe-4fcb-9d71-bf66310b9483"
     
 
 [markup]
