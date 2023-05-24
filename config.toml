@@ -28,6 +28,10 @@ summaryLength = 30
 
     umamiScriptUrl = "https://analytics.umami.is/script.js"
     umamiWebsiteId = "54d5bbdf-46fe-4fcb-9d71-bf66310b9483"
+
+    cactusCommentsSiteName = "avinashdhillor.github.io"
+    cactusCommentsServerName = "cactus.chat"
+    cactusCommentsHomeserver = "https://matrix.cactus.chat:8448"
     
 
 [markup]
