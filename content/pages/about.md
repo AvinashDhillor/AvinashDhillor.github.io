@@ -1,6 +1,7 @@
 ---
 title: "About"
 date: 2023-05-22T21:34:58+05:30
+comments: false
 ---
 
 📍 Hey there! I'm Avinash Dhillor, a 26-year-old software developer hailing from vibrant India 🌟. 
