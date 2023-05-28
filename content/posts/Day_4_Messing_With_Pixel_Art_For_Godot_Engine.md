@@ -16,3 +16,8 @@ So Next question was how easy it is two build 2D pixel art image?. i watched som
 
 
 I tried making some 2D assets but it was not that i expected. So it does require a lot of practice and learning to get at that level, It is not just few days process. For people like me who are most into programming, it is good option to buy assets lib from online platform rather then spending time on it(unless you really want to learn it).
+
+
+### Free Resource url -
+-   [Open game art](https://opengameart.org/)
+-   [kenney.nl](https://kenney.nl/)
