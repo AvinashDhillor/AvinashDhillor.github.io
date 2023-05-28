@@ -21,3 +21,4 @@ I tried making some 2D assets but it was not that i expected. So it does require
 ### Free Resource url -
 -   [Open game art](https://opengameart.org/)
 -   [kenney.nl](https://kenney.nl/)
+-   [itch.io](https://itch.io/game-assets/)
