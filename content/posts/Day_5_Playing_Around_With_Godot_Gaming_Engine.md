@@ -1,11 +1,11 @@
 ---
-title: "Day 3: Playing Around With Godot Gaming Engine"
+title: "Day 5: Playing Around With Godot Gaming Engine"
 date: 2023-05-27T20:14:46+05:30
 draft: false
 tags:
     -   Godot - Gaming Engine
     -   Playground
-image : "/images/post_pics/Day_3_Playing_Around_With_Godot_Gaming_Engine/Cover.png"
+image : "/images/post_pics/Day_5_Playing_Around_With_Godot_Gaming_Engine/Cover.png"
 ---
 
 Few days back, i came to know about Godot gaming engine. So this weekend i decided to go in the docs and learn about it.

@@ -1,11 +1,11 @@
 ---
-title: "Day 4: Messing With Pixel Art For Godot Engine"
+title: "Day 6: Messing With Pixel Art For Godot Engine"
 date: 2023-05-28T19:00:16+05:30
 draft: false
 tags:
     -   Godot - Gaming Engine
     -   Playground
-image: "/images/post_pics/Day_4_Messing_With_Pixel_Art_For_Godot_Engine/Cover.png"
+image: "/images/post_pics/Day_6_Messing_With_Pixel_Art_For_Godot_Engine/Cover.png"
 ---
 
 While learning about Godot engine, i realized i need assets to build game. There are different types of assets exists for different type of game. I had saw [bytelegand](https://bytelegend.com/) game few days back during a live session which is made in LibGDX. By reading docs of bytelegand i came to know about tilesmap. i wonder if this could be possible to create tileset on my own. Although so many websites exist where you can get free sources or just pay small ammount to get the assets. But still i decided to explore option of build my own.
