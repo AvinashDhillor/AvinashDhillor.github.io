@@ -20,6 +20,7 @@ image: "/images/post_pics/Day_7_Design_Underground_System/Cover.png"
 **Approach:**
 
 This problem can be solved by proper using of HashMaps. As shown in image above. We have to maintain two HashMap. One is to store uncompleted journey and once user reach the destination then we will remove it from uncompleted journey map(Hashmap1) and add into second hashmap with some modification. Or simple we just remove the element from hashmap1 and then add the time difference in second map and increment the count. That will help us to calculate average.
+
 ---
 
 **Code:**
