@@ -1,11 +1,11 @@
 ---
-title: "Day 7: Design Underground System"
+title: "Day 7: LeetCode Daily - Design Underground System"
 date: 2023-05-31T21:37:40+05:30
 draft: false
 tags:
     - Hashing
     - Medium
-image: "/images/post_pics/Day_7_Design_Underground_System/Cover.png"
+image: "/images/post_pics/Day_7_Leetcode_Daily_Design_Underground_System/Cover.png"
 ---
 
 
