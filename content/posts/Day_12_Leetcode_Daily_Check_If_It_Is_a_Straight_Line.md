@@ -1,5 +1,5 @@
 ---
-title: "Day 12: Check If It Is a Straight Line"
+title: "Day 12: Leetcode Daily - Check If It Is a Straight Line"
 date: 2023-06-06T09:40:48+05:30
 draft: false
 tags:
