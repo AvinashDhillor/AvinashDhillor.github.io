@@ -8,7 +8,7 @@ image: "/images/post_pics/{{folder_name}}/Cover.png"
 ---
 
 
-## Problem - [{{full_problem_name}}]({{problem_link}})
+## Problem - [{{full_problem_name}}]({{{problem_link}}})
 
 ### Level - {{problem_level}}
 ---

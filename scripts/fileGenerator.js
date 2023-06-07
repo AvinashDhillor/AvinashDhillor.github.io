@@ -1,6 +1,6 @@
 const readLine = require('readline')
 const fs = require('fs')
-const mustache = require('mustache')
+const Mustache = require('mustache')
 
 const DATA = {
     raw_file_data: null,
@@ -77,7 +77,7 @@ const questionsFlow = async () => {
             rl.question('Enter Link : ', (link) => {
                 DATA.problem_link = link;
                 const level = ['Easy', 'Medium', 'Hard'];
-                rl.question(`Enter problem level: 1 = ${level[0]}, 2 = ${level[1]}s, 3 = ${level[2]} : `, (optionNumber) => {
+                rl.question(`Enter problem level: 1 = ${level[0]}, 2 = ${level[1]}, 3 = ${level[2]} : `, (optionNumber) => {
                     DATA.problem_level = level[optionNumber - 1];
                     rl.close();
                     resolve()
@@ -89,7 +89,7 @@ const questionsFlow = async () => {
 
 const generateFile = async () => {
     console.log(`Generating files....`);
-    let data = mustache.render(DATA.raw_file_data, DATA)
+    let data = Mustache.render(DATA.raw_file_data, DATA)
     fs.writeFileSync(`content/posts/${DATA.file_name}`, data);
     fs.mkdirSync(`content/images/post_pics/${DATA.folder_name}`);
     console.log(`Completed!`);
