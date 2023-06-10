@@ -1,6 +1,6 @@
 ---
 title: "Day 12: Leetcode Daily - Check If It Is a Straight Line"
-date: 2023-06-06T09:40:48+05:30
+date: 2023-06-05T09:40:48+05:30
 draft: false
 tags:
 -   Easy
