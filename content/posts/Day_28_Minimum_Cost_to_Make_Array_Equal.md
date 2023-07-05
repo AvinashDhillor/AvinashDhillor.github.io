@@ -1,6 +1,6 @@
 ---
 title: "Day 28: Leetcode Daily - Minimum Cost to Make Array Equal"
-date: 2023-06-24T21:31:21+05:30
+date: 2023-06-21T21:31:21+05:30
 draft: false
 tags:
 -   Hard
