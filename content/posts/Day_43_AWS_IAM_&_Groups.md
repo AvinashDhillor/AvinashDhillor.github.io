@@ -4,7 +4,6 @@ date: 2023-07-06T08:21:51+05:30
 draft: false
 tags:
 -   AWS
-- TODO
 ---
 
 # Goal
