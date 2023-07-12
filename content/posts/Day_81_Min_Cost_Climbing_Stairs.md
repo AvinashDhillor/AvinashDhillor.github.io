@@ -1,6 +1,6 @@
 ---
 title: "Day 81: Leetcode Daily - Min Cost Climbing Stairs"
-date: 2023-09-15T17:48:49+05:30
+date: 2023-07-12T17:48:49+05:30
 draft: false
 tags:
 -   Easy
