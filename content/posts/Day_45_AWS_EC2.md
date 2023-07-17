@@ -1,5 +1,5 @@
 ---
-title: "Day 43: AWS EC2"
+title: "Day 45: AWS EC2"
 date: 2023-07-09T09:21:51+05:30
 draft: false
 tags:
