@@ -12,6 +12,8 @@ In my third year, I dived into Node.js, completing courses on JavaScript, Node.j
 
 📍 Beyond work, I enjoy exploring open-source projects, solving problems on platforms like Leetcode, participating in coding contests and [hackathons](#), and working on personal projects to learn new technologies. I also find inspiration in technology blogs and live streams by fellow developers.
 
+📍 Beside work i like to take part in sports, creative activities or traveling. I like working out and running. Also like to read books, learn about new topics and socializing with people.
+
 📍 Currently, I'm focusing on enhancing my knowledge of system design, design principles, and design patterns. I make it a habit to solve daily programming problems on different online coding platforms.
 
 📍 Feel free to connect with me through the social links on my blog or my [Bento](https://bento.me/avinashdhillor) page. Let's exchange ideas, collaborate, and grow together as developers. 
