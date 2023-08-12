@@ -19,7 +19,6 @@ image: "/images/post_pics/Day_48_Merge_Strings_Alternately/Cover.png"
 **Approach:**
 We will have to iterate both string until one of them them got completely iterated (in case of one is smaller then other).
 Then we can append the remaining character to the solution.
-
 ---
 
 **Code:**
