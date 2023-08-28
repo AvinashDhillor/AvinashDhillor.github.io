@@ -24,7 +24,32 @@ image: "/images/post_pics/Day_64_Reverse_Linked_List/Cover.png"
 **Code:**
 
 ```java
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    ListNode result = new ListNode(0);
+    ListNode ans = result;
+    public ListNode util(ListNode head) {
+        if(head == null) return null;
+        util(head.next);
+        result.next = new ListNode(head.val);
+        result = result.next;
+        return head;
+    }
 
+    public ListNode reverseList(ListNode head) {
+        util(head);
+        return ans.next;
+    }
+}
 
 ```
 ---
