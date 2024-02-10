@@ -1,7 +1,7 @@
 ---
 title: "Java Garbage Collection"
 date: 2024-02-09T18:44:11+05:30
-draft: true
+draft: false
 tags:
   - Garbage Collection
   - Java
